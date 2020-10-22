@@ -1,7 +1,7 @@
 # trivia.5.2
 Repositorio de procesos de creación y construcción del proyecto de Trivia para la ore-admisión de Laboratorio
 
-<h2>DÍA #1:</h2>
+<h2>DÍA #1:</h2 align-content="justify">
 El proceso creativo de la construcción de la primera versión de la Webapp "Triviart" comenzó con un proceso de ideación de las pantallas, textos, mensajes, estructura y temas que pudieran configurar el MPV como entregable.
 
 Día #2:
