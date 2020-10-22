@@ -4,6 +4,8 @@ Repositorio de procesos de creación y construcción del proyecto de Trivia para
 <h2>DÍA #1:</h2>
 El proceso creativo de la construcción de la primera versión de la Webapp "Triviart" comenzó con un proceso de ideación de las pantallas, textos, mensajes, estructura y temas que pudieran configurar el MPV como entregable.
 
+Una vez definido el tema de la trivia decidimos trabajar cada una en un nuevo proceso de ideación del prototipo en papel:
+
 En base a los tres prototipos del proyecto, el equipo definió las características y los atributos más viables de las tres propuestas teniendo clara una versión A más simplificada y en caso de tener tiempo para trabajar, completar una versión B más ambiciosa.
 
 Después de una charla con Carlos (coach) se decidió que el proyecto de trivia priorizaría la funcionalidad y la estructura, dejando en una segunda capa de trabajo el estilo y diseño.
